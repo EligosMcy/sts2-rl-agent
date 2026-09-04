@@ -30,6 +30,7 @@ tensorboard_logs/
 tb_logs/
 
 # .NET build
+decompiled/obj/
 bridge_mod/bin/
 bridge_mod/obj/
 bridge_mod_v2/bin/
