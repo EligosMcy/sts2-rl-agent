@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "codegraph": {
+      "command": "C:\\Users\\22842\\AppData\\Local\\codegraph\\current\\bin\\codegraph.cmd",
+      "args": [
+        "serve",
+        "--mcp",
+        "--path",
+        "${workspaceFolder}"
+      ]
+    }
+  }
+}
